@@ -1,4 +1,4 @@
-🐶 Dog Behavior Detection using Deep Learning
+🐶 # Dog Behavior Detection using Deep Learning
 📌 Project Overview
 
 This project is a real-time computer vision system designed to detect dog behavior (Normal or Aggressive) from video using deep learning techniques.
